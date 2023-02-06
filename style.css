@@ -1,7 +1,16 @@
 *{
     /* background-color: hsl(228, 45%, 44%) */
      font-family: "Outfit", sans-serif; 
+     box-sizing: border-box;
     
+}
+
+body{
+    min-height: 100vh;
+    padding: 25px;
+    display:         flex;
+    justify-content: center;
+    align-items:     center;
 }
 
 h2{
