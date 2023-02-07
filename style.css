@@ -82,7 +82,9 @@
         margin-bottom: 15px;
       }
   
-      .card__title:hover { color: var(--aqua); }
+      .card__title:hover { 
+        color: var(--aqua);
+     }
   
       .card__text {
         color: var(--blue-yonder);
@@ -104,11 +106,17 @@
         font-weight: 500;
       }
   
-      .card__price { color: var(--aqua); }
+      .card__price { 
+        color: var(--aqua); 
+    }
   
-      .card__icon { margin-right: 6px; }
+      .card__icon {
+         margin-right: 6px; 
+        }
   
-      .card__countdown { color: var(--blue-yonder); }
+      .card__countdown { 
+        color: var(--blue-yonder);
+     }
   
   
     .card__footer {
@@ -135,4 +143,6 @@
         font-weight: 400;
       }
   
-      .card__author-name a:hover { color: var(--aqua); }
+      .card__author-name a:hover { 
+        color: var(--aqua); 
+    }
